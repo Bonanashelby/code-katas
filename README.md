@@ -73,6 +73,16 @@
 **Tests**: `test_combine_strings.py`
 **URL**: [challenge url](https://www.codewars.com/kata/grasshopper-combine-strings/train/python)
 
+**Code Kata - Interview Challenge: Proper Parenthetics**
+**Proper Parenthetics**
+**Tests**: `test_parenthetics.py`
+**The Problem**: Your assignment is to build a quick Python function incorporating one of this week’s data structures that takes a unicode string (text) as input and returns one of three possible values:
+
+--Return 1 if the string is “open” (there are open parens that are not closed)
+--Return 0 if the string is “balanced” (there are an equal number of open and closed parentheses in the string)
+--Return -1 if the string is “broken” (a closing parens has not been proceeded by one that opens)
+--For the purposes of this assignment, open and closed parens must match. As an example, consider this string: ")))(((" <- is considered broken
+
 
 
 
